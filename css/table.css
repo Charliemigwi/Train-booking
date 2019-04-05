@@ -1,0 +1,14 @@
+table{
+	border:2px solid green;
+	background-color: red;
+}
+
+th{
+	border-bottom:5px solid gold;
+	background-color: red;
+}
+
+td{
+	border-bottom:2px #C21807;
+	padding:10px;
+}

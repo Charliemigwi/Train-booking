@@ -1,0 +1,20 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	background-color: antiquewhite;
+	padding-top: 0px;
+}
+
+#main_header{
+	background: #E80003 url(pattern.png) repeat;
+}
+#main_header h2{
+	text-align:center;
+	font-size:40px;
+	
+}
+
+
+
